@@ -1,0 +1,187 @@
+{
+  "sources": [
+    {
+      "collection": "categories",
+      "filename": "Spartacus Insights - Blog Categories - 6acf639a1938d91e86934844.csv",
+      "sha256": "de76baae02238436c42f0f06a6b8bb9ffb81f9c8b0843562d18f41c618f962ce",
+      "rows": 3,
+      "headers": [
+        "Name",
+        "Slug",
+        "Collection ID",
+        "Locale ID",
+        "Item ID",
+        "Archived",
+        "Draft",
+        "Created On",
+        "Updated On",
+        "Published On",
+        "Description",
+        "Icon",
+        "Color"
+      ]
+    },
+    {
+      "collection": "posts",
+      "filename": "Spartacus Insights - Blog Posts - 6acf6491bea5e62153bdc6b3.csv",
+      "sha256": "8747982f311b177b4b8ef8fe9b3993ef906adfe44bd3ba8eb5388e45434173df",
+      "rows": 5,
+      "headers": [
+        "Name",
+        "Slug",
+        "Collection ID",
+        "Locale ID",
+        "Item ID",
+        "Archived",
+        "Draft",
+        "Created On",
+        "Updated On",
+        "Published On",
+        "Post Body",
+        "Post Summary",
+        "Main Image",
+        "Thumbnail image",
+        "Featured?",
+        "Color",
+        "Categories"
+      ]
+    }
+  ],
+  "duplicate_ids_or_slugs": {
+    "categories": {
+      "Item ID": 0,
+      "Slug": 0
+    },
+    "posts": {
+      "Item ID": 0,
+      "Slug": 0
+    }
+  },
+  "locale_count": 1,
+  "unresolved_categories": [],
+  "invalid_dates": [],
+  "unique_asset_urls": 12,
+  "asset_hosts": [
+    "cdn.prod.website-files.com"
+  ],
+  "posts": [
+    {
+      "title": "Understanding Content Management Systems",
+      "slug": "understanding-cms",
+      "draft": false,
+      "archived": false,
+      "categories": [
+        "frameworks",
+        "products",
+        "platform"
+      ],
+      "body_tags": {
+        "h1": 1,
+        "p": 2,
+        "h2": 1,
+        "blockquote": 1
+      },
+      "inline_images": 0,
+      "embeds": [],
+      "body_sha256": "50ebd624d416e63f9b2d57f15c5aacff2720ad1c7df3a4777f95ad3960d518e2"
+    },
+    {
+      "title": "Top CMS Platforms in 2023",
+      "slug": "top-cms-platforms",
+      "draft": false,
+      "archived": false,
+      "categories": [
+        "platform"
+      ],
+      "body_tags": {
+        "h1": 1,
+        "p": 2,
+        "h2": 1,
+        "blockquote": 1
+      },
+      "inline_images": 0,
+      "embeds": [],
+      "body_sha256": "9a35e2519ad4f3506e5b0288873a3c544231c8c3ffdadaa3a435b5798c79987e"
+    },
+    {
+      "title": "Essential CMS Security Tips",
+      "slug": "cms-security-tips",
+      "draft": false,
+      "archived": false,
+      "categories": [
+        "platform",
+        "frameworks"
+      ],
+      "body_tags": {
+        "h1": 1,
+        "p": 1,
+        "h2": 1,
+        "ul": 1,
+        "li": 3,
+        "strong": 3,
+        "blockquote": 1
+      },
+      "inline_images": 0,
+      "embeds": [],
+      "body_sha256": "15c260afbce056c7d9413a9a1a2fbc493d2b357c846b1f8f4aac0fdf70c19af0"
+    },
+    {
+      "title": "Optimizing Your CMS for Performance",
+      "slug": "optimizing-cms-performance",
+      "draft": false,
+      "archived": false,
+      "categories": [
+        "products",
+        "frameworks",
+        "platform"
+      ],
+      "body_tags": {
+        "h1": 1,
+        "p": 1,
+        "h2": 1,
+        "ol": 1,
+        "li": 3,
+        "strong": 3,
+        "blockquote": 1
+      },
+      "inline_images": 0,
+      "embeds": [],
+      "body_sha256": "be7fb81b76456219211c8394035c698694649593fcdd0f1f1702c5d30edfa522"
+    },
+    {
+      "title": "The Future of Content Management Systems",
+      "slug": "future-of-cms",
+      "draft": false,
+      "archived": false,
+      "categories": [
+        "frameworks",
+        "platform"
+      ],
+      "body_tags": {
+        "h1": 1,
+        "p": 4,
+        "figure": 2,
+        "div": 2,
+        "iframe": 1,
+        "h2": 1,
+        "blockquote": 1,
+        "img": 1
+      },
+      "inline_images": 1,
+      "embeds": [
+        "https://www.youtube.com/embed/60a0nHFefn4"
+      ],
+      "body_sha256": "d601c3709ce5bbb870f4c2041977c620a2c156255abfb7ef76b6e7efc326e899"
+    }
+  ],
+  "production_imported": true,
+  "editorial_decision": "All five posts must be imported as drafts for review, overriding exported publication flags.",
+  "route_prefix": "unverified",
+  "import_result": {
+    "categories": 3,
+    "posts": 5,
+    "post_status": "draft",
+    "media_storage": "external source URLs; backup pending",
+    "tests": "8 integration tests, build, type checks and browser checks passed"
+  }
+}
