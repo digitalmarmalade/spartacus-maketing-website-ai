@@ -1,0 +1,7 @@
+[
+  {"name":"Third-Party Risk Management","order":1,"path":"/products/third-party-risk-management","description":"Assess third-party risk through a structured assurance process built on reviewed responses, evidence, and defensible risk visibility."},
+  {"name":"Threats & Protection","order":2,"path":"/products/threats-and-protection","description":"Interpret governed cybersecurity capability against defined threat scenarios, showing where protection appears stronger, weaker or under-evidenced."},
+  {"name":"Quantitative Risk","order":3,"path":"/products/quantitative-risk","description":"Turn cyber risk into clearer business and financial insight, from practical bounded analysis to more advanced modelling where needed."},
+  {"name":"Custom Frameworks","order":4,"path":"/products/custom-frameworks","description":"Operationalise internal methodologies, hybrid models and bespoke requirements through the same governed lifecycle used for recognised frameworks."},
+  {"name":"Controls & Investment","order":5,"path":"/products/controls-and-investment","description":"Make more informed control decisions by connecting assets, quantified risk, security controls, and cost in one governed view."}
+]
