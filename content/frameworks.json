@@ -1,0 +1,9 @@
+[
+  {"name":"NIST CSF 2.0","order":1,"path":"/frameworks/nist-csf-2","draft":false,"description":"Assess cybersecurity posture using a widely adopted framework for understanding current state, target state and improvement priorities."},
+  {"name":"ISO 27001:2022","order":2,"path":"/frameworks/iso-27001-2022","draft":false,"description":"Support a more structured view of ISMS maturity across clauses and Annex A controls, with stronger evidence, reporting, and visibility."},
+  {"name":"CIS Top 18","order":3,"path":"/frameworks/cis-top-18","draft":false,"description":"Evaluate practical cybersecurity safeguards in a more consistent and actionable way, with clearer visibility of implementation gaps and priorities."},
+  {"name":"CMMC 2.0","order":4,"path":"/frameworks/cmmc-2","draft":false,"description":"Support a more structured approach to CMMC readiness, with clearer evidence, defensible reporting and stronger visibility of gaps."},
+  {"name":"NCSC CAF 3.2 & 4.0","order":5,"path":"/frameworks/ncsc-caf","draft":true,"description":"TBC"},
+  {"name":"DORA","order":6,"path":"/frameworks/dora","draft":false,"description":"Bring ICT risk, incident readiness, resilience testing and third-party dependency into a clearer digital operational resilience view."},
+  {"name":"NIS2","order":7,"path":"/frameworks/nis2","draft":false,"description":"Make management accountability, supplier assurance, incident readiness and resilience themes easier to evidence and explain."}
+]
